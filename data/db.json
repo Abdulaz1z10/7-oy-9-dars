@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "8b08",
+      "name": "Iphone 14 Pro Max",
+      "price": "$870",
+      "brands": "Apple",
+      "models": "Phones",
+      "description": ""
+    }
+  ],
+  "brands": [
+    {
+      "id": "2",
+      "title": "Hp"
+    },
+    {
+      "title": "Apple",
+      "id": "3"
+    },
+    {
+      "id": "d72e",
+      "title": "Lenovo"
+    }
+  ],
+  "models": [
+    {
+      "title": "Iphone 14 Pro ",
+      "id": "90fc"
+    },
+    {
+      "id": "7315",
+      "title": "Iphone SE"
+    }
+  ]
+}

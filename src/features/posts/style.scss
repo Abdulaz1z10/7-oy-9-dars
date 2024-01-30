@@ -1,0 +1,106 @@
+.menu{
+    // position: fixed;
+    padding-top: 20px;
+    width: 300px;
+    height: 99.9vh;
+    background-color: aqua;
+    .btn{
+        margin-left: 70px;
+        width: 150px;
+        padding: 15px;
+        margin-top: 20px;
+        display: flex;  
+        flex-direction: column;
+        font-weight: 700;
+        font-size: 20px;
+    }
+}
+.first{
+    font-size: 20px;
+    background-image: url(/src/assets/abstract-3d-black-background-grey-background-with-textures-3d-dark-background-image_873925-87162.avif);
+}
+.second{
+background-image: url(/src/assets/22.jpg);
+}
+.third{
+background-image: url(/src/assets/33.avif);
+}
+.menu{
+background-image: url(/src/assets/menu.jpg);
+}
+.big_app{
+    display: flex;
+}
+.btn1{
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: darkslategray;
+    color: aliceblue;
+
+}
+.Photo{
+    padding-top: 10px;
+    width: 1218px;
+    height: 100%;
+    background-image: url(/src/assets/1234567.jpg);
+}
+.mini_div{
+    background-color: aliceblue;
+    width: 320px;
+    border-radius: 10px;
+    padding: 30px;
+    background-image: url(/src/assets/apple.jpg);
+    color: aliceblue;
+    button{
+        margin-left: 20px;
+    }
+}
+.Photo2{
+    background-image: url(/src/assets/brend.jpg);
+    padding-top: 10px;
+    width: 1218px;
+    height: 100%;
+    color: aliceblue;
+}
+.fourth{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(17, 232, 196);
+    color: rgb(42, 65, 85);
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.Brands1{
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    margin-top: 20px;
+    background-image: url(/src/assets/fon.jpg);
+}
+.Photo3{
+    background-image: url(/src/assets/classik.jpg);
+    padding-top: 10px;
+    width: 1218px;
+    height: 100%;
+    color: aliceblue;
+}
+.fifth{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    background:rgb(42, 65, 85);
+    color: antiquewhite;
+    border: none;
+}
+.bodies{
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    height: 100px;
+    background-image: url(/src/assets/25.jpg);
+}
